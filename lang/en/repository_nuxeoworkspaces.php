@@ -21,6 +21,9 @@
  */
 $string['nuxeoworkspaces:view'] = 'View nuxeo repository';
 
+// Privacy.
+$string['privacy:metadata'] = 'The Nuxeo global Worspaces Repository plugin does not store directly any personal data about any user.';
+
 $string['username'] = 'User name';
 $string['pluginname'] = 'Nuxeo workspaces';
 $string['configplugin'] = 'Configuration';

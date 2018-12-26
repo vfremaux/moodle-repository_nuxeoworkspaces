@@ -19,7 +19,12 @@
  * @copyright  2014 Rectorat Rennes
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-$string['nuxeoworkspaces:view'] = 'Vue nuxeo repository';
+// Capabilities.
+$string['nuxeoworkspaces:view'] = 'Voir les espaces de travail globaux de Nuxeo';
+
+// Privacy.
+$string['privacy:metadata'] = 'Le dépot Espaces Globaux Nuxeo ne stocke pas directement de données relatives aux utilisateurs.';
+
 $string['username'] = "Nom d'utilisateur";
 $string['pluginname'] = 'Espaces de travail nuxeo';
 $string['configplugin'] = 'Configuration';
